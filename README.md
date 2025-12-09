@@ -85,10 +85,10 @@ I'm a software developer with a medical background, giving me a unique perspecti
 
 ## 📫 Let's Connect
 
-- 🌐 **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-- 💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 📧 **Email:** your.email@example.com
-- 💬 **WhatsApp:** [+your-number](https://wa.me/yournumber)
+- 🌐 **Portfolio:** [ozkr.dev](https://ozkr.dev)
+- 💼 **LinkedIn:** [oscar-rojas-rodríguez](https://linkedin.com/in/oscar-rojas-rodr%C3%ADguez-240769155)
+- 📧 **Email:** [ozkr.rouj@gmail.com](mailto:ozkr.rouj@gmail.com?subject=Hola%20Oscar)
+- 💬 **WhatsApp:** [+53 5833 5917](https://wa.me/5358335917)
 
 ---
 
